@@ -1,5 +1,5 @@
-hello world
-test 3
+hello world;
+test 3;
 
-test 12
-test 5
+test 12;
+test 5;
