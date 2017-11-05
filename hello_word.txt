@@ -1,7 +1,7 @@
-hello world
-test 3
+hello world;
+test 3;
 
-test 12
-test 5
-hello
-hello 1
+test 12;
+test 5;
+hello;
+hello 1;
